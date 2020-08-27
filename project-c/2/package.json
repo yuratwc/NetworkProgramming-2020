@@ -1,0 +1,16 @@
+{
+  "name": "kadai_c2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "member_c2.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "puppeteer": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
