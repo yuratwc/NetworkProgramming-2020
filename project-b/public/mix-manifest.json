@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/hello_ajax.js": "/js/hello_ajax.js",
+    "/js/hello_gmap.js": "/js/hello_gmap.js",
+    "/css/app.css": "/css/app.css",
+    "/js/hello_vuejs.js": "/js/hello_vuejs.js",
+    "/js/ui_search.js": "/js/ui_search.js",
+    "/js/ui_search_results.js": "/js/ui_search_results.js"
+}
